@@ -7,7 +7,7 @@ import { FaGithub } from "react-icons/fa";
 
 
   const handleReload = () => {
-    window.location.reload(); // পেজ রিলোড করবে
+    window.location.reload(); 
   };
 const Newfooter = () => {
 
