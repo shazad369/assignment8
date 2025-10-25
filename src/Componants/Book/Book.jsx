@@ -1,4 +1,4 @@
-// ✅ Next.js server component version
+
 import { use } from 'react';
 import Amarbook from './Amarbook';
 
